@@ -1,0 +1,245 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="2ab7c42b-87ac-4e53-ba5e-47e7a2cd943c" name="Default Changelist" comment="">
+      <change beforePath="$PROJECT_DIR$/../../jiju_algo_practice/6/6.vcxproj" beforeDir="false" afterPath="$PROJECT_DIR$/../../jiju_algo_practice/6/6.vcxproj" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../jiju_algo_practice/6/6.vcxproj.filters" beforeDir="false" afterPath="$PROJECT_DIR$/../../jiju_algo_practice/6/6.vcxproj.filters" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../jiju_algo_practice/6/lvlvlv3.cpp" beforeDir="false" afterPath="$PROJECT_DIR$/../../jiju_algo_practice/6/lvlvlv3.cpp" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../jiju_algo_practice/6/output.txt" beforeDir="false" afterPath="$PROJECT_DIR$/../../jiju_algo_practice/6/output.txt" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../백준/그다음/try/.vscode/settings.json" beforeDir="false" afterPath="$PROJECT_DIR$/../../백준/그다음/try/.vscode/settings.json" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../백준/그다음/try/a.exe" beforeDir="false" afterPath="$PROJECT_DIR$/../../백준/그다음/try/a.exe" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../백준/디버깅용2/debug.cpp" beforeDir="false" afterPath="$PROJECT_DIR$/../../백준/디버깅용2/debug.cpp" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../영상처리/a.py" beforeDir="false" afterPath="$PROJECT_DIR$/../../영상처리/a.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../영상처리/assignment3/complete+hemodify.py" beforeDir="false" afterPath="$PROJECT_DIR$/../../영상처리/assignment3/complete+hemodify.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../영상처리/assignment3/final_dgu.png" beforeDir="false" afterPath="$PROJECT_DIR$/../../영상처리/assignment3/final_dgu.png" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../영상처리/assignment3/histogram_equalize.png" beforeDir="false" afterPath="$PROJECT_DIR$/../../영상처리/assignment3/histogram_equalize.png" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/match_homo_accy.py" beforeDir="false" afterPath="$PROJECT_DIR$/match_homo_accy.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/videoF.py" beforeDir="false" afterPath="$PROJECT_DIR$/videoF.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../프론트엔드 연습/rttt2/my-app/src/index.js" beforeDir="false" afterPath="$PROJECT_DIR$/../../프론트엔드 연습/rttt2/my-app/src/index.js" afterDir="false" />
+    </list>
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$/../.." />
+  </component>
+  <component name="ProjectId" id="1qD9YX93aoxkQQQ2NhGytg82Hkl" />
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showExcludedFiles" value="true" />
+    <option name="showLibraryContents" value="true" />
+    <option name="showMembers" value="true" />
+  </component>
+  <component name="PropertiesComponent">
+    <property name="ASKED_ADD_EXTERNAL_FILES" value="true" />
+    <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$" />
+    <property name="settings.editor.selected.configurable" value="editor.preferences.fonts.default" />
+  </component>
+  <component name="RecentsManager">
+    <key name="CopyFile.RECENT_KEYS">
+      <recent name="C:\Users\lhyun\OneDrive\Desktop\practice2020\졸업작품\untitled" />
+      <recent name="C:\Users\lhyun\OneDrive\Desktop\practice2020\졸업작품\untitled\p" />
+    </key>
+    <key name="MoveFile.RECENT_KEYS">
+      <recent name="C:\Users\lhyun\OneDrive\Desktop\practice2020\졸업작품\untitled" />
+    </key>
+  </component>
+  <component name="RunManager" selected="Python.part2-adaptive">
+    <configuration name="match_homo_accy" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
+      <module name="untitled" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/match_homo_accy.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <option name="MODULE_MODE" value="false" />
+      <option name="REDIRECT_INPUT" value="false" />
+      <option name="INPUT_FILE" value="" />
+      <method v="2" />
+    </configuration>
+    <configuration name="part1-threshold" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
+      <module name="untitled" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/part1-threshold.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <option name="MODULE_MODE" value="false" />
+      <option name="REDIRECT_INPUT" value="false" />
+      <option name="INPUT_FILE" value="" />
+      <method v="2" />
+    </configuration>
+    <configuration name="part2-adaptive" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
+      <module name="untitled" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/part2-adaptive.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <option name="MODULE_MODE" value="false" />
+      <option name="REDIRECT_INPUT" value="false" />
+      <option name="INPUT_FILE" value="" />
+      <method v="2" />
+    </configuration>
+    <configuration name="videoControl" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
+      <module name="untitled" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/videoControl.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <option name="MODULE_MODE" value="false" />
+      <option name="REDIRECT_INPUT" value="false" />
+      <option name="INPUT_FILE" value="" />
+      <method v="2" />
+    </configuration>
+    <configuration name="videoF" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
+      <module name="untitled" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/videoF.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <option name="MODULE_MODE" value="false" />
+      <option name="REDIRECT_INPUT" value="false" />
+      <option name="INPUT_FILE" value="" />
+      <method v="2" />
+    </configuration>
+    <recent_temporary>
+      <list>
+        <item itemvalue="Python.part2-adaptive" />
+        <item itemvalue="Python.part1-threshold" />
+        <item itemvalue="Python.match_homo_accy" />
+        <item itemvalue="Python.videoControl" />
+        <item itemvalue="Python.videoF" />
+      </list>
+    </recent_temporary>
+  </component>
+  <component name="SvnConfiguration">
+    <configuration />
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="2ab7c42b-87ac-4e53-ba5e-47e7a2cd943c" name="Default Changelist" comment="" />
+      <created>1616603341411</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1616603341411</updated>
+    </task>
+    <servers />
+  </component>
+  <component name="WindowStateProjectService">
+    <state x="721" y="322" key="#com.intellij.fileTypes.FileTypeChooser" timestamp="1617463970232">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state x="721" y="322" key="#com.intellij.fileTypes.FileTypeChooser/0.0.1920.1040@0.0.1920.1040" timestamp="1617463970232" />
+    <state x="1046" y="116" key="CommitChangelistDialog2" timestamp="1616674244565">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state x="1046" y="116" key="CommitChangelistDialog2/0.0.1920.1040@0.0.1920.1040" timestamp="1616674244565" />
+    <state x="842" y="163" key="FileChooserDialogImpl" timestamp="1616604644406">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state x="842" y="163" key="FileChooserDialogImpl/0.0.1920.1040@0.0.1920.1040" timestamp="1616604644406" />
+    <state width="1899" height="278" key="GridCell.Tab.0.bottom" timestamp="1617469130075">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state width="1899" height="278" key="GridCell.Tab.0.bottom/0.0.1920.1040@0.0.1920.1040" timestamp="1617469130075" />
+    <state width="1899" height="278" key="GridCell.Tab.0.center" timestamp="1617469130075">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state width="1899" height="278" key="GridCell.Tab.0.center/0.0.1920.1040@0.0.1920.1040" timestamp="1617469130075" />
+    <state width="1899" height="278" key="GridCell.Tab.0.left" timestamp="1617469130075">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state width="1899" height="278" key="GridCell.Tab.0.left/0.0.1920.1040@0.0.1920.1040" timestamp="1617469130075" />
+    <state width="1899" height="278" key="GridCell.Tab.0.right" timestamp="1617469130075">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state width="1899" height="278" key="GridCell.Tab.0.right/0.0.1920.1040@0.0.1920.1040" timestamp="1617469130075" />
+    <state width="1157" height="344" key="GridCell.Tab.1.bottom" timestamp="1616667628970">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state width="1157" height="344" key="GridCell.Tab.1.bottom/0.0.1920.1040@0.0.1920.1040" timestamp="1616667628970" />
+    <state width="1157" height="344" key="GridCell.Tab.1.center" timestamp="1616667628970">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state width="1157" height="344" key="GridCell.Tab.1.center/0.0.1920.1040@0.0.1920.1040" timestamp="1616667628970" />
+    <state width="1157" height="344" key="GridCell.Tab.1.left" timestamp="1616667628970">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state width="1157" height="344" key="GridCell.Tab.1.left/0.0.1920.1040@0.0.1920.1040" timestamp="1616667628970" />
+    <state width="1157" height="344" key="GridCell.Tab.1.right" timestamp="1616667628970">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state width="1157" height="344" key="GridCell.Tab.1.right/0.0.1920.1040@0.0.1920.1040" timestamp="1616667628970" />
+    <state x="319" y="50" width="1488" height="717" key="SettingsEditor" timestamp="1617456862966">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state x="319" y="50" width="1488" height="717" key="SettingsEditor/0.0.1920.1040@0.0.1920.1040" timestamp="1617456862966" />
+    <state x="704" y="334" key="com.intellij.ide.util.TipDialog" timestamp="1617196304154">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state x="704" y="334" key="com.intellij.ide.util.TipDialog/0.0.1920.1040@0.0.1920.1040" timestamp="1617196304154" />
+  </component>
+  <component name="XDebuggerManager">
+    <breakpoint-manager>
+      <breakpoints>
+        <line-breakpoint enabled="true" suspend="THREAD" type="python-line">
+          <url>file://$PROJECT_DIR$/mha.py</url>
+          <line>7</line>
+          <option name="timeStamp" value="3" />
+        </line-breakpoint>
+      </breakpoints>
+    </breakpoint-manager>
+  </component>
+</project>
